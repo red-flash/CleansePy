@@ -36,8 +36,8 @@ You can change the dictionary based profanity filtering of CleansePy by altering
 
 ToDo
 -------
-Add GUI
-Store user credentials on local machine after verification
-Allow user input for channel name or video id
-support for multiple dictionary file types
-support for multiple operating systems
+* Add GUI
+* Store user credentials on local machine after verification
+* Allow user input for channel name or video id
+* support for multiple dictionary file types
+* support for multiple operating systems
